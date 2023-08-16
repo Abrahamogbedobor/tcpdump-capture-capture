@@ -13,7 +13,7 @@ For this task, I used tcpdump to capture and analyze live network traffic from a
 
 - Linux Operating System (Bash Shell)
 
-<h2>High Level-Steps</h2>
+<h2>High-Level Steps</h2>
 
 - Identified Network Interfaces
 - Inspect Network Interface Traffic with Tcpdump
