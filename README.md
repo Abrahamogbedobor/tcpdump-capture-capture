@@ -5,17 +5,20 @@ For this task, I used tcpdump to capture and analyze live network traffic from a
 <h2>Environments and Technologies Used</h2>
 
 - (Virtual Machines/Computer)
+- Linux Command-Line
 - Remote Desktop
 - Tcpdump
 
 <h2>Operating Systems Used</h2>
 
-- Linux Command-Line (Bash Shell)
+- Linux Operating System (Bash Shell)
 
-<h2>List of Prerequisites</h2>
+<h2>High Level-Steps</h2>
 
-- Linux Virtual Machine Set-up
-- Remote Desktop Connection
+- Identified Network Interfaces
+- Inspect Network Interface Traffic with Tcpdump
+- Capture Network Traffic with Tcpdump
+- Filtered Captured Packet Data
 
 <h2>Task Overview</h2>
 
