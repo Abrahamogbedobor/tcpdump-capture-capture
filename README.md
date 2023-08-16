@@ -1,19 +1,20 @@
-<h1>Capturing Live Network Trafffic</h1>
+<h1>Capturing Live Network Trafffic in Linux Environment</h1>
 <h2>Project Description</h2>
-At my previous organization, i was provided with a file (.pcap) that contains a capture packet data from a system used by a user, to connect to my organization website. I have been asked to analyze the capture file to gather relevant information, using wireshark. I used packet sniffer to filter the network traffic at the launch of the file to first identify the source and destination IP addresses that are involved in the web browsing session.<br />
+For this task, I used tcpdump to capture and analyze live network traffic from a Linux virtual machine. Tcpdump is a network protocol analyzer that is accessed using the command-line interface. Similar to wireshark, but tcpdump has more functinalities that enable us to capture, filter, and analyze network traffic.<br />
 
 <h2>Environments and Technologies Used</h2>
 
 - (Virtual Machines/Computer)
 - Remote Desktop
+- Tcpdump
 
 <h2>Operating Systems Used</h2>
 
-- Windows 10 (21H2)
+- Linux Command-Line (Bash Shell)
 
 <h2>List of Prerequisites</h2>
 
-- Microsoft Virtual Machine Set-up
+- Linux Virtual Machine Set-up
 - Remote Desktop Connection
 
 <h2>Task Overview</h2>
